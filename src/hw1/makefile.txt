@@ -1,0 +1,12 @@
+D:\
+└── gb\
+    └── java\
+        └── hw1\
+            ├── Dockerfile
+            ├── pom.xml
+            └── src\
+                └── main\
+                    └── java\
+                        └── com\
+                            └── example\
+                                └── App.java
